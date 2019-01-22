@@ -1,0 +1,25 @@
+
+
+ -------------------------------------------------- 
+
+ Current Working Dir
+/home/lcc/programming/python/webscraping/beautifulsoup/Projects
+
+
+ -------------------------------------------------- 
+
+ Files
+['stock_scraper', 'test.txt', 'excel_test.xls', '.excel_test.py.swp', 'excel_test.py', '.~lock.excel_test.xls#']
+
+
+ -------------------------------------------------- 
+
+ Load File
+   col1  col2
+0     3     3
+1     4     4
+
+
+ -------------------------------------------------- 
+
+ overwritten File
